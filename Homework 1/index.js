@@ -36,3 +36,4 @@ let numbers = {
 }
 
 console.log(numbers['addNumbers']())
+console.log(numbers.addNumbers())
